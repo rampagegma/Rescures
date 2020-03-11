@@ -1,0 +1,14 @@
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\bin\Debug\rescures.exe.config
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\bin\Debug\rescures.exe
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\bin\Debug\rescures.pdb
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.csprojResolveAssemblyReference.cache
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\MainWindow.g.cs
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\App.g.cs
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures_MarkupCompile.cache
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures_MarkupCompile.lref
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\MainWindow.baml
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.g.resources
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.Properties.Resources.resources
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.csproj.GenerateResource.Cache
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.exe
+c:\users\vozer\documents\visual studio 2015\Projects\rescures\rescures\obj\Debug\rescures.pdb
